@@ -49,3 +49,6 @@ This repository primarily contains:
 
 * I am a data analyst passionate about transforming data into actionable insights.  This project demonstrates my skills in data visualization and my ability to communicate complex information through interactive dashboards.  Connect with me on [LinkedIn](https://www.linkedin.com/in/mehul-patil-05687b1b7/).
 
+## Image 
+![data professional survey breakdown power bi project ](https://github.com/user-attachments/assets/d9141ae9-6cff-4891-97f0-53bf03f019f6)
+
