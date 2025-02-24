@@ -42,13 +42,8 @@ Based on the dashboard, some key insights include:
 
 This repository primarily contains:
 
-*   [**Screenshot of the Dashboard:**  A visual representation of the Power BI dashboard.
-## Future Enhancements
-
-*   Implement interactive filters and slicers to allow users to explore the data in more detail.
-*   Add more detailed visualizations to explore relationships between different variables (e.g., salary vs. experience).
-*   Incorporate additional data sources to enrich the analysis.
-*   Adding other year's data for comparison
+*   [**Screenshot of the Dashboard:** (https://github.com/Mehul3030/Data-Professional-Survey-Breakdown-Power-BI-Project/blob/main/data%20professional%20survey%20breakdown%20power%20bi%20project%20.png)
+   A visual representation of the Power BI dashboard.
 
 ## About Me
 
