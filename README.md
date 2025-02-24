@@ -1,6 +1,6 @@
 # Data-Professional-Survey-Breakdown-Power-BI-Project
 
-# Data Professional Survey Breakdown - Power BI Dashboard
+## Data Professional Survey Breakdown - Power BI Dashboard
 
 ## Overview
 
